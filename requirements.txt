@@ -1,3 +1,5 @@
 STREAMLIT
 transformers
 torch
+numpy 
+pandas
